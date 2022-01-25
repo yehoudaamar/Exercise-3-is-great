@@ -1,0 +1,48 @@
+header {
+    padding: 20px;
+    background-color: #0091ea;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.body{
+
+    padding: 30px;
+
+}
+#Who{
+padding: 80px;
+text-align: center;
+}
+
+/* .div1{
+display: flex;
+} */
+#Square{
+width: 558px;
+height: 460px;
+ background:#bcbcbc;
+ margin-bottom: 100px;
+}
+footer{
+    background-color: #0091ea;
+    text-align: center;
+    height: 30px; 
+    color: white;
+}
+.container{
+    padding: 10px;
+    display: grid;
+    margin:0 auto;
+    grid-template-columns: 1fr 1fr;
+}
+#Square{
+margin: 50px;
+    padding: 10px;
+grid-row: 1/4;
+}
+.mydiv{
+padding: 20px;
+font-size:20px;
+}
